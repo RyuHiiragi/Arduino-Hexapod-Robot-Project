@@ -1,4 +1,6 @@
 # Arduino-Hexapod-Robot-Project
+![Project Banner](https://i.pinimg.com/736x/86/cb/02/86cb0226d7a5c9ce1f9f64fcdc34d84b.jpg)
+
 This repository contains the Arduino code, configuration, and assembly instructions for building a hexapod robot. A hexapod robot is a six-legged walking robot designed to mimic insect-like movement. This project is ideal for beginners and hobbyists who want to explore robotics, Arduino programming, and mechanical design.
 ---
 
